@@ -1,0 +1,16 @@
+{
+  "name": "pactumjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0",
+    "pactum": "^3.6.8"
+  }
+}
